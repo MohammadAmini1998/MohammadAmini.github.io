@@ -22,13 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Mohammad Amini"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Deep Learning And Reinforcement Learning"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Iran University Of Science And Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mohammad.aminiiii98@gmail.com"
+" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
