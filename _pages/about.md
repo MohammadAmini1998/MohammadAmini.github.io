@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Boris!"
+title: "👋🏼 Hello there, I'm Mohammad!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,13 +11,13 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
+👨🏻‍💻 I'm a final year graduate student at the Iran University Of Science And Technology.
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+🔬 My research interests are in Deep Learning and Reinfocement Learning!
 
-📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling.
+📚 I'm currently working towards my Master's Thesis in the Multi-Agent Reinforcement Learning.
 
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+🎸 Just like how I'm passionate about shredding electric guitars.
 
 # Selected Experience
 
