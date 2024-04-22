@@ -34,12 +34,13 @@ To accompany this work, I have submitted a blog post to the **ICLR** Blogposts T
 Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
 
 ## 👨🏻‍🔬 Professional Experience
-Currently I am working as a **Student Researcher** at the Reliable Multimodal AI Lab at the TU Darmstadt under the supervision of Prof. Marcus Rohrbach working on **Generative Video-Language Modelling**.
-Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
-There I worked on dynamic traffic flow forecasting using Graph Neural Networks.
+Currently I am working as a **Research Assistant** at the Iran University Of Science And Technology in Iran under the supervision of Dr. Shahrokh Farahmand on **Multi Agent-Reinforcement Learning**.
+Additionally, I have professional experience working as an **Research Assistant** at the AmirKabir University Of Technology. \
+There I worked on Reinforcement Learning In Atari Games.
 
-## 📚 Teaching and Community Contributions
-To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content.
+
+## 📚 Teaching
+
 
 
 
