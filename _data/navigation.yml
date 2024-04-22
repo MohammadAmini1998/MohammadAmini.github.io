@@ -5,18 +5,22 @@ main:
 
   #- title: "Talks"
     #url: /talks/    
+   - title: "CV"
+     url: /files/Recent CV .pdf
 
+   - title: "Projects"
+     url: /portfolio/
+    - title: "Research
+      url: //    
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Projects"
-    url: /portfolio/
+  
         
   #- title: "Blog Posts"
    # url: /year-archive/
     
-  - title: "CV"
-    url: /files/Recent CV .pdf
+  
     
   #- title: "Guide"
    # url: /markdown/
