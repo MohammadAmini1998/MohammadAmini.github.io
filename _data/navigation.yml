@@ -9,14 +9,7 @@ main:
    - title: "CV"
      url: /files/Recent CV .pdf
      
-   - title: "Projects"
-     url: /portfolio/
-     
-    - title: "Research"
-     url: /teaching/    
-      
-  - title: "Teaching"
-    url: /teaching/    
+   
     
   
         
