@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![A robot that has learned how to play guitar with Reinforcement Learning:)](/images/output.png){: .align-right width="100px"}
+![A robot that has learned how to play guitar with Reinforcement Learning:)](/images/output.png){: .align-right width="10px"}
 👨🏻‍💻 I'm a final year graduate student at Iran University of Science And Technology.
 
 🔬 My research interests are in Deep Learning and Reinfocement Learning!
@@ -35,8 +35,7 @@ Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/
 
 ## 👨🏻‍🔬 Professional Experience
 Currently I am working as a **Research Assistant** at  Iran University Of Science And Technology ranked 4 among Iran universities in Iran under the supervision of Dr. Shahrokh Farahmand on **Multi Agent-Reinforcement Learning**.
-Additionally, I have experience working as an **Research Assistant** at the AmirKabir University Of Technology ranked 3 among Iran universities under supervision of Prof. Mohmmad Bagher Menhaj. \
-There I worked on Reinforcement Learning In Atari Games.
+Additionally, I have experience working as an **Research Assistant** at the AmirKabir University Of Technology ranked 3 among Iran universities under supervision of Prof. Mohmmad Bagher Menhaj. There I worked on Reinforcement Learning In Atari Games.
 
 
 ## 📚 Teaching
