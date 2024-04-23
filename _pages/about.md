@@ -22,10 +22,9 @@ redirect_from:
 # Selected Experience
 
 ## 🤖 Thesis works and Seminar
-I have research experience on Reinforcement Learning [Github page](https://github.com/Arena-Rosnav](https://github.com/MohammadAmini1998/B.S.C-Thesis). This is a comprassion between some of most famous Reinforcement Learning algorithms.
+I have research experience on Reinforcement Learning [Github page](https://github.com/MohammadAmini1998/B.S.C-Thesis). This is a comprassion between some of most famous Reinforcement Learning algorithms.
 
-Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
-
+Additionally, I have research experience in Safe Reinforcement Learning, as showcased on my [Github page](https). In this research, I talk about the basics of Safe Reinforcement Learning and some of its most common algorithms like Shielding.
 ## 📜 Reimplementing and Reproducing Papers
 I have experience with independent research. I have implemented the Outlier Detection through Null Space Analysis of Neural Networks paper and reproduced the original results by running and tracking experiments.
 
