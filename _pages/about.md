@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![A robot that has learned how to play guitar with Reinforcement Learning:)](/images/output.jpg){: .align-right width="100px"}
+![A robot that has learned how to play guitar with Reinforcement Learning:)](/images/output.png){: .align-right width="100px"}
 👨🏻‍💻 I'm a final year graduate student at Iran University of Science And Technology.
 
 🔬 My research interests are in Deep Learning and Reinfocement Learning!
