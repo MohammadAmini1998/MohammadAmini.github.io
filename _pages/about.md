@@ -10,12 +10,12 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/output.jpg){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year graduate student at Iran University Of Science And Technology.
+![A robot that has learned how to play guitar with Reinforcement Learning:)](/images/output.jpg){: .align-right width="100px"}
+👨🏻‍💻 I'm a final year graduate student at Iran University of Science And Technology.
 
 🔬 My research interests are in Deep Learning and Reinfocement Learning!
 
-📚 I'm currently working towards my Master's Thesis in the Multi-Agent Reinforcement Learning.
+📚 I'm currently working towards my Master's Thesis in  Multi-Agent Reinforcement Learning.
 
 🎸 I'm also passionate about shredding electric guitars.
 
