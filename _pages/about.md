@@ -31,7 +31,7 @@ I have experience with independent research. I have implemented theOutlier Detec
 
 To accompany this work, I have submitted a full guide to the **Github** Blogposts Track communicating the paper's theory and my results.
 
-Feel free to look at this project [Github page]((https://github.com/MohammadAmini1998/Advanced-Data-Mining-Project)).
+Feel free to look at this project [Github page](https://github.com/MohammadAmini1998/Advanced-Data-Mining-Project).
 
 ## 👨🏻‍🔬 Professional Experience
 Currently I am working as a **Research Assistant** at  Iran University Of Science And Technology ranked **4** among Iran universities in Iran under the supervision of Dr. Shahrokh Farahmand on **Multi Agent-Reinforcement Learning**.
