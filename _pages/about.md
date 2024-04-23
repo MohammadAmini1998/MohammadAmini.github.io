@@ -27,7 +27,7 @@ I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav)
 Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
 
 ## 📜 Reimplementing and Reproducing Papers
-I have experience with independent research. I have implemented theOutlier Detection through Null Space Analysis of Neural Networks paper and reproduced the original results by running and tracking experiments.
+I have experience with independent research. I have implemented the Outlier Detection through Null Space Analysis of Neural Networks paper and reproduced the original results by running and tracking experiments.
 
 To accompany this work, I have submitted a full guide to the **Github** page communicating the paper's theory and my results.
 
