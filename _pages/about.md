@@ -11,13 +11,13 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/output.jpg){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year graduate student at the Iran University Of Science And Technology.
+👨🏻‍💻 I'm a final year graduate student at Iran University Of Science And Technology.
 
 🔬 My research interests are in Deep Learning and Reinfocement Learning!
 
 📚 I'm currently working towards my Master's Thesis in the Multi-Agent Reinforcement Learning.
 
-🎸 Just like how I'm passionate about shredding electric guitars.
+🎸 I'm also passionate about shredding electric guitars.
 
 # Selected Experience
 
