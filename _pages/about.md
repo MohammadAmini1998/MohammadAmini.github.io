@@ -29,7 +29,7 @@ Moreover, I have published a [respective paper](https://sudo-boris.github.io/pub
 ## 📜 Reimplementing and Reproducing Papers
 I have experience with independent research. I have implemented theOutlier Detection through Null Space Analysis of Neural Networks paper and reproduced the original results by running and tracking experiments.
 
-To accompany this work, I have submitted a full guide to the **Github** Blogposts Track communicating the paper's theory and my results.
+To accompany this work, I have submitted a full guide to the **Github** page communicating the paper's theory and my results.
 
 Feel free to look at this project [Github page](https://github.com/MohammadAmini1998/Advanced-Data-Mining-Project).
 
