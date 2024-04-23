@@ -41,7 +41,7 @@ There I worked on Reinforcement Learning In Atari Games.
 
 ## 📚 Teaching
 * Teaching Assistant at Iran University of Science and Technology
-  * Course name: Stochastic Process
+  * Course name: Stochastic Processes
   * Course name: Deep Learning in Communication Systems
 
 
