@@ -1,6 +1,6 @@
 ---
-title: "Reinforcement Learning in Atari Games"
-excerpt: "In this project, I explored the fascinating intersection of deep learning and RL by implementing SARSA and Q-Learning and Double Q-Learning algorithms with deep neural networks."
+title: "Frequent Pattern Mining with Apriori Algorithm"
+excerpt: "In this project, we apply frequent pattern mining on a market transaction dataset using the Apriori algorithm."
 collection: portfolio
 ---
 
