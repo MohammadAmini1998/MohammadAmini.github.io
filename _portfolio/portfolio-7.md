@@ -1,6 +1,6 @@
 ---
-title: "Reinforcement Learning in Atari Games"
-excerpt: "In this project, I explored the fascinating intersection of deep learning and RL by implementing SARSA and Q-Learning and Double Q-Learning algorithms with deep neural networks."
+title: "Face Mask Detection"
+excerpt: "Nothing here yet!"
 collection: portfolio
 ---
 
