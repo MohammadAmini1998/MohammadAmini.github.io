@@ -1,6 +1,6 @@
 ---
-title: "Reinforcement Learning in Atari Games"
-excerpt: "In this project, I explored the fascinating intersection of deep learning and RL by implementing SARSA and Q-Learning and Double Q-Learning algorithms with deep neural networks."
+title: "License Plate Detection and Recognition"
+excerpt: "This project aims to develop a deep learning-based system for detecting license plates and recognizing characters on them in both images and videos."
 collection: portfolio
 ---
 
