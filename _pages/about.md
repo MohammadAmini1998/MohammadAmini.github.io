@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![:)](images/output.png){: .align-right width="400px"}
+![This robot has learned to play guitar with RL :)](images/output.png){: .align-right width="400px"}
 👨🏻‍💻 I'm a final year graduate student at Iran University of Science And Technology.
 
 🔬 My research interests are in Deep Learning and Reinfocement Learning!
