@@ -43,6 +43,14 @@ Additionally, I have experience working as an **Research Assistant** at the Amir
   * Course name: Deep Learning in Communication Systems
 
 
+## 📚 Other Activities
+"In my spare time, I'm an electric guitar player with a passion for music 🎸. I used to be part of a band called Break Time Rebellion formed in Tehan. Here is a video of me playing a song called Bigger Picture by Dream Theater."
+
+https://github.com/MohammadAmini1998/MohammadAmini.github.io/assets/49214384/8b4f17ff-e25c-40f0-89d0-8bd0339d0d55
+
+
+
+
 
 
 
