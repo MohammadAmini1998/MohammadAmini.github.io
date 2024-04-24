@@ -1,6 +1,6 @@
 ---
 title: "Face Mask Detection"
-excerpt: "Nothing here yet!"
+excerpt: ""
 collection: portfolio
 ---
 
