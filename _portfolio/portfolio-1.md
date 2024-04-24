@@ -1,6 +1,6 @@
 ---
 title: "Reinforcement Learning in Atari Games"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "In this project, I explored the fascinating intersection of deep learning and RL by implementing SARSA and Q-Learning and Double Q-Learning algorithms with deep neural networks."
 collection: portfolio
 ---
 
