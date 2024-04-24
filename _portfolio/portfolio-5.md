@@ -1,6 +1,6 @@
 ---
-title: "Reinforcement Learning in Atari Games"
-excerpt: "In this project, I explored the fascinating intersection of deep learning and RL by implementing SARSA and Q-Learning and Double Q-Learning algorithms with deep neural networks."
+title: "Customer Segmentation using Gaussian Mixture Model"
+excerpt: "In this project, I used Gaussian Mixture Model (GMM) to segment customers based on different features."
 collection: portfolio
 ---
 
