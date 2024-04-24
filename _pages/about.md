@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![:)](/images/output.png/){: .align-right width="100px"}
+![:)](images/output.png){: .align-right width="100px"}
 👨🏻‍💻 I'm a final year graduate student at Iran University of Science And Technology.
 
 🔬 My research interests are in Deep Learning and Reinfocement Learning!
@@ -44,8 +44,8 @@ Additionally, I have experience working as an **Research Assistant** at the Amir
 
 
 ## 🎸 Other Activities
-"In my spare time, I'm an electric guitar player with a passion for music . I used to be part of a band called Break Time Rebellion formed in Tehan. Here is a video of me playing a song called Bigger Picture by Dream Theater."
-<div class="video-container">
+"In my spare time, I'm an electric guitar player with a passion for music . I used to be part of a band called Break Time Rebellion formed in Tehan. Here is a video of me playing a song called The Bigger Picture by Dream Theater.
+<div class="video-container" style="text-align: center;">
         <video width="640" height="360" controls>
             <source src="files/IMG_1006.MOV" type="video/mp4">
             
