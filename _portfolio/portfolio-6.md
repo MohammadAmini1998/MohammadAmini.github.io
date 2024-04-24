@@ -1,6 +1,6 @@
 ---
-title: "Reinforcement Learning in Atari Games"
-excerpt: "In this project, I explored the fascinating intersection of deep learning and RL by implementing SARSA and Q-Learning and Double Q-Learning algorithms with deep neural networks."
+title: "Clustering Algorithms Implementation in Python"
+excerpt: "In this project, we implement several clustering algorithms and analyze the results using an artificial dataset."
 collection: portfolio
 ---
 
