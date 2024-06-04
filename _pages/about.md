@@ -40,7 +40,6 @@ Additionally, I have experience working as an **Research Assistant** at the Amir
 ## 📚 Teaching
 * Teaching Assistant at Iran University of Science and Technology
   * Course name: Stochastic Processes
-  * Course name: Deep Learning in Communication Systems
 
 
 ## 🎸 Other Activities
