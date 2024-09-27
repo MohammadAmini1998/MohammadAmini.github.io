@@ -20,7 +20,7 @@ redirect_from:
 
 # Selected Experience
 
-## 🤖 Thesis works and Seminar
+## 🤖 Thesis works
 I have research experience on Reinforcement Learning for my bachelor's thesis. [Github page](https://github.com/MohammadAmini1998/B.S.C-Thesis). This is a comprassion between some of the most famous Reinforcement Learning algorithms.
 
 Additionally, I have doing research in Vehicular Networks, as showcased on my [Github page](https://github.com/MohammadAmini1998/Vehicular-Network). In this research, we are using a new Multi-Agent Reinforcement Learning 
