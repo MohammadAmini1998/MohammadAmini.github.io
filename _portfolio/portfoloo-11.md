@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Bandwidth Allocation in Cooperative Multi-Agent Reinforcement Learning"
-excerpt: "This project was my master's thesis which we proposed two novel MARL that dynamically allocate bandwidth to each agent"
+excerpt: "This project was my master's thesis which we proposed two novel MARL algorithms that dynamically allocate bandwidth to each agent"
 collection: portfolio
 address : "https://github.com/MohammadAmini1998/DyNet"
 ---
