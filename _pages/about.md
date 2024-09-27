@@ -11,12 +11,11 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](images/output.png){: .align-right width="400px"}
-👨🏻‍💻 I'm a final year graduate student at Iran University of Science And Technology.
+👨🏻‍💻 I have a master of science in Telecommunication systems from Iran university of science and technology and a bachelor of electrical engineering from Amir-Kabir university of technology. 
 
-🔬 My research interests are in Deep Learning, Reinforcement Learning and their application in Communication Systems like Vehicular Networks.
+🔬 My research interests are in Machine Learning, Deep Learning, Reinforcement Learning and their applications in Communication Systems like Vehicular Networks.
 
-📚 I'm currently working towards my Master's Thesis in  Multi-Agent Reinforcement Learning in Vehicular Networks.
-
+📚 I am currently working on a new paper focused on Dynamic Bandwidth Allocation in Cooperative Multi-Agent Reinforcement Learning (MARL). In this paper, we propose two novel algorithms designed to address bandwidth limitations in MARL environments and demonstrate their practical applications in real-world scenarios, such as vehicular networks
 🎸 I'm also passionate about shredding electric guitars.
 
 # Selected Experience
