@@ -13,7 +13,7 @@ redirect_from:
 ![Illustration of combining vision and language modalities](images/output.png){: .align-right width="400px"}
 👨🏻‍💻 I'm a final year graduate student at Iran University of Science And Technology.
 
-🔬 My research interests are in Deep Learning, Reinforcement Learning and their application in Vehicular Networks.
+🔬 My research interests are in Deep Learning, Reinforcement Learning and their application in Communication Systems like Vehicular Networks.
 
 📚 I'm currently working towards my Master's Thesis in  Multi-Agent Reinforcement Learning in Vehicular Networks.
 
